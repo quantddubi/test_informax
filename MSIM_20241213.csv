@@ -1,0 +1,35 @@
+﻿date,theme,asset,underlying,symbol,weight
+2024-12-13,Value Recovery1,Equity,EM (ex-CN & IN) Profitable & Stable Value Stocks,,2.2
+2024-12-13,Value Recovery1,Equity,EM Equities,,-2.2
+2024-12-13,,Equity,EMU Profitable & Stable Value Stocks,,1.2
+2024-12-13,,Equity,Low-Quality Anti-Value Stocks,,-1.2
+2024-12-13,Value Recovery3,Equity,Japan & Korea Value Stocks,,1.2
+2024-12-13,Value Recovery3,Equity,Anti-Value Stocks,,-1.2
+2024-12-13,Value Recovery3,Equity,EMU Value Stocks,,0.9
+2024-12-13,Value Recovery3,Equity,Anti-Value Stocks,,-0.9
+2024-12-13,Value Recovery4,Equity,U.S. Broad Value,,0.6
+2024-12-13,Value Recovery4,Equity,U.S. Broad Anti-Value,,-0.6
+2024-12-13,Small Cap Outperformance,Equity,U.S. Small-Cap Stocks,,2.8
+2024-12-13,Small Cap Outperformance,Equity,U.S. Large-Cap Stocks,,-2.8
+2024-12-13,,Equity,EMU Bank Stocks,,0.9
+2024-12-13,,Equity,EMU Equities,,-0.9
+2024-12-13,Lights Back on in South Africa2,Equity,South African Bank Stocks,,0.9
+2024-12-13,Lights Back on in South Africa2,Equity,EM Equities,,-0.9
+2024-12-13,Japan Property Recovery,Equity,Japan REITs,,0.7
+2024-12-13,Japan Property Recovery,Equity,Japan Equities & Japan 30-Year Bonds,,-0.5
+2024-12-13,EMU Recovery,Equity,EMU Domestic Stocks,,0.4
+2024-12-13,EMU Recovery,Equity,U.S. Domestic Stocks,,-0.4
+2024-12-13,Brazil Real Rates Peaking,Fixed Income,China 5-Year Bonds,,7.6
+2024-12-13,Tariff Risk1,Fixed Income,Mexico 3-Year Interest Rate Swaps,,4.7
+2024-12-13,Tariff Risk1,Fixed Income,U.S. 5-Year Treasuries,,-3.2
+2024-12-13,Overpriced Gold,Fixed Income,Gold,,-1.6
+2024-12-13,Overpriced Gold,Fixed Income,U.S. 10-Year TIPS & DM FX,,2.2121701403894902
+2024-12-13,Lights Back on in South Africa1,Fixed Income,South African 10-Year Bonds,,2.2
+2024-12-13,Lights Back on in South Africa1,Fixed Income,U.S. 10-Year Treasuries,,-0.3
+2024-12-13,Lights Back on in South Africa1,Fixed Income,U.S. 10-Year Treasuries,,1.8
+2024-12-13,,Fixed Income,EUR 10-Year Inflation Swaps,,-2.4
+2024-12-13,,Fixed Income,U.S. Exploration and Production Stocks,,0.1125
+2024-12-13,Turkey Disinflation,Currency,Turkish Lira,,0.8
+2024-12-13,Turkey Disinflation,Currency,U.S. Dollar,,-0.8
+2024-12-13,Overpriced Gold,Commodity,Gold,,-1.6
+2024-12-13,Overpriced Gold,Commodity,U.S. 10-Year TIPS & DM FX,,2.2121701403894902
