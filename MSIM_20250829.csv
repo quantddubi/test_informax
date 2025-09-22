@@ -1,0 +1,25 @@
+﻿date,theme,asset,underlying,symbol,weight
+2025-08-29,Value Recovery3,Equity,Japan Value Stocks,,2.1
+2025-08-29,Value Recovery3,Equity,Japan Anti-Value Stocks,,-2.1
+2025-08-29,Value Recovery1,Equity,EM Value Stocks,,2.0
+2025-08-29,Value Recovery1,Equity,EM Equities ex-China and India,,-2.0
+2025-08-29,Value Recovery4,Equity,U.S. Value Stocks,,1.6
+2025-08-29,Value Recovery4,Equity,U.S. Anti-Value Stocks,,-1.6
+2025-08-29,Value Recovery2,Equity,Europe Value Stocks,,1.5
+2025-08-29,Value Recovery2,Equity,Europe Anti-Value Stocks,,-1.5
+2025-08-29,,Equity,Korea Value,,0.8
+2025-08-29,,Equity,Korea Anti-Value,,-0.8
+2025-08-29,Tariff Risk5,Equity,U.S. Cyclical Stocks,,-2.8
+2025-08-29,Tariff Risk5,Equity,U.S. Defensive Stocks,,2.8
+2025-08-29,Japan Property Recovery,Equity,Japan REITs,,2.4
+2025-08-29,Japan Property Recovery,Equity,Japan Equities & Japan 30-Year Bonds,,-0.9
+2025-08-29,U.S. Exceptionalism Ending3,Equity,Global Equities ex-China & U.S.,,1.9
+2025-08-29,U.S. Exceptionalism Ending3,Equity,U.S. Equities ex-Tech,,-1.9
+2025-08-29,EMU Recovery,Equity,Europe Domestic Stocks,,1.9
+2025-08-29,EMU Recovery,Equity,U.S. Domestic Stocks,,-1.9
+2025-08-29,Indonesia Outperformance,Equity,Indonesia Equities,,0.5
+2025-08-29,Indonesia Outperformance,Equity,EM Equities,,-0.5
+2025-08-29,Brazil Real Rates Peaking,Fixed Income,Brazil 5-Year Bonds,,2.3
+2025-08-29,US Growth Slowdown2,Fixed Income,U.S. 10-Year TIPS,,1.1
+2025-08-29,,Currency,Non-U.S. Currencies,,2.6
+2025-08-29,,Currency,U.S. Dollar,,-2.6
